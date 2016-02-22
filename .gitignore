@@ -40,3 +40,5 @@ gradle-app.setting
 # Cache of project
 .gradletasknamecache
 
+user.h2.db
+gradle/wrapper/
